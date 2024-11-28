@@ -3,7 +3,7 @@
 # NOTICE!
 I have created new repo/website this one will no longer be updated please refer to the new one
 
-## [Website link](https://fir15playz.github.io/Cool-s-OP-Gear/)
+## [Website link](https://fir15playz.github.io/Cools-OP-Gear/)
 
 ### OP-gear
 This is a collection of OP (Over Powered) items for Minecraft
