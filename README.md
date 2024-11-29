@@ -1,6 +1,8 @@
 ![OP-Gear-Title](https://github.com/user-attachments/assets/9a309fc4-b76c-483b-b432-4a0f65ab9f18)
 
+<h1 align="center">
 # NOTICE!
+</h1>
 ## I have created new repo/website this one will no longer be updated please refer to the new one: [Website link](https://fir15playz.github.io/Cools-OP-Gear/)
 
 ### OP-gear
